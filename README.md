@@ -24,3 +24,4 @@ Meme coins move at the speed of light. Human designers are too slow. Our factory
 - No Private Keys stored on-chain.
 - Non-custodial wallet connections via Phantom/Solflare.
 - Rate-limited AI requests to prevent API abuse.
+Follow the journey here https://x.com/vickAlmondo
